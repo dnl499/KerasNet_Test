@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Keras.NET" Version="3.7.4.2" />
+  </ItemGroup>
+
 </Project>
